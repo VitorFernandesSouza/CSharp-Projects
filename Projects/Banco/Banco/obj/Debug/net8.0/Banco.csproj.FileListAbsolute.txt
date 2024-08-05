@@ -1,0 +1,14 @@
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\bin\Debug\net8.0\Banco.exe
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\bin\Debug\net8.0\Banco.deps.json
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\bin\Debug\net8.0\Banco.dll
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\bin\Debug\net8.0\Banco.pdb
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.dll
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\obj\Debug\net8.0\refint\Banco.dll
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.pdb
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\source\repos\Banco\Banco\obj\Debug\net8.0\ref\Banco.dll
