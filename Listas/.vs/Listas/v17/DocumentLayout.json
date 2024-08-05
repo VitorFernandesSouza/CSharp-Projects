@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor.fernandessouza\\source\\repos\\Listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C30745-B7B8-4F51-96C1-1E66C13B7095}|Listas\\Listas.csproj|c:\\users\\vitor.fernandessouza\\source\\repos\\listas\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C30745-B7B8-4F51-96C1-1E66C13B7095}|Listas\\Listas.csproj|solutionrelative:listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C30745-B7B8-4F51-96C1-1E66C13B7095}|Listas\\Listas.csproj|c:\\users\\vitor.fernandessouza\\source\\repos\\listas\\listas\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C30745-B7B8-4F51-96C1-1E66C13B7095}|Listas\\Listas.csproj|solutionrelative:listas\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\source\\repos\\Listas\\Listas\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Listas\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\source\\repos\\Listas\\Listas\\Funcionario.cs",
+              "RelativeToolTip": "Listas\\Funcionario.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:00:29.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\source\\repos\\Listas\\Listas\\Program.cs",
+              "RelativeDocumentMoniker": "Listas\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\source\\repos\\Listas\\Listas\\Program.cs",
+              "RelativeToolTip": "Listas\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:00:07.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
