@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\obj\Debug\net8.0\refint\Funcoes.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Funções\Funcoes\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll
