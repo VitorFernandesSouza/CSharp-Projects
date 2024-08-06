@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\bin\Debug\net8.0\Ternario.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\bin\Debug\net8.0\Ternario.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\bin\Debug\net8.0\Ternario.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\bin\Debug\net8.0\Ternario.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\bin\Debug\net8.0\Ternario.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\obj\Debug\net8.0\Ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\obj\Debug\net8.0\Ternario.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\obj\Debug\net8.0\Ternario.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\obj\Debug\net8.0\Ternario.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\obj\Debug\net8.0\Ternario.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\obj\Debug\net8.0\Ternario.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\obj\Debug\net8.0\refint\Ternario.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\obj\Debug\net8.0\Ternario.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\obj\Debug\net8.0\Ternario.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Ternario\Ternario\Ternario\obj\Debug\net8.0\ref\Ternario.dll
