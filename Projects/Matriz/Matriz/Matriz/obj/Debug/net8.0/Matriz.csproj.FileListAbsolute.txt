@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\bin\Debug\net8.0\Matriz.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\bin\Debug\net8.0\Matriz.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\bin\Debug\net8.0\Matriz.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\bin\Debug\net8.0\Matriz.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\obj\Debug\net8.0\Matriz.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\obj\Debug\net8.0\Matriz.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\obj\Debug\net8.0\Matriz.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Matriz\Matriz\Matriz\obj\Debug\net8.0\ref\Matriz.dll
