@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Case.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Case.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Case.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Case.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Case.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Case.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Case.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Case.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Case.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Case.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Case.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Case.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Case.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Case\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Case.dll

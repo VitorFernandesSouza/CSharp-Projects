@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Enum\\Enum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABACFF9-386C-4778-B6E9-0710B96A76FE}|Enum\\Enum.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\enum\\enum\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABACFF9-386C-4778-B6E9-0710B96A76FE}|Enum\\Enum.csproj|solutionrelative:enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABACFF9-386C-4778-B6E9-0710B96A76FE}|Enum\\Enum.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\enum\\enum\\enum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABACFF9-386C-4778-B6E9-0710B96A76FE}|Enum\\Enum.csproj|solutionrelative:enum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABACFF9-386C-4778-B6E9-0710B96A76FE}|Enum\\Enum.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\enum\\enum\\enum\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABACFF9-386C-4778-B6E9-0710B96A76FE}|Enum\\Enum.csproj|solutionrelative:enum\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Enum\\Enum\\Enum\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Enum\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Enum\\Enum\\Enum\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Enum\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:50:40.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Enum\\Enum\\Enum\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Enum\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Enum\\Enum\\Enum\\Entities\\Order.cs",
+              "RelativeToolTip": "Enum\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:48:50.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Enum\\Enum\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "Enum\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Enum\\Enum\\Enum\\Program.cs*",
+              "RelativeToolTip": "Enum\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:45:32.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

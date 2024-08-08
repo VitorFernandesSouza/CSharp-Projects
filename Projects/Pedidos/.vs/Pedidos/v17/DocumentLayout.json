@@ -50,8 +50,7 @@
               "RelativeToolTip": "Pedidos\\Entities\\Pedido.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAkwEAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T17:21:42.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T17:21:42.37Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Pedidos\\Entities\\Cliente.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAiwBUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T17:19:34.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T17:19:34.222Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "Pedidos\\Entities\\Enums\\StatusPedido.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T17:18:18.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T17:18:18.964Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "Pedidos\\Entities\\Produto.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T17:17:36.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T17:17:36.657Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "Pedidos\\Entities\\Item.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T17:15:27.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T17:15:27.393Z"
             },
             {
               "$type": "Document",
@@ -113,7 +108,7 @@
               "RelativeDocumentMoniker": "Pedidos\\Program.cs",
               "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Pedidos\\Pedidos\\Program.cs",
               "RelativeToolTip": "Pedidos\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwDQAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T17:13:06.424Z",
               "EditorCaption": ""
