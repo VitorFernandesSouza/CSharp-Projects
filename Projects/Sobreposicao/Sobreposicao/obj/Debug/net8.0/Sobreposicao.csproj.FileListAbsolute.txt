@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\obj\Debug\net8.0\refint\Sobreposicao.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Sobreposicao\Sobreposicao\obj\Debug\net8.0\ref\Sobreposicao.dll

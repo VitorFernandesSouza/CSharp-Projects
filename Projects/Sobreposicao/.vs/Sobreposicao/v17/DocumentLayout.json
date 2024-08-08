@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Sobreposicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4151CA43-B225-4197-B436-955D76D94A00}|Sobreposicao\\Sobreposicao.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\sobreposicao\\sobreposicao\\entities\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151CA43-B225-4197-B436-955D76D94A00}|Sobreposicao\\Sobreposicao.csproj|solutionrelative:sobreposicao\\entities\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151CA43-B225-4197-B436-955D76D94A00}|Sobreposicao\\Sobreposicao.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\sobreposicao\\sobreposicao\\entities\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151CA43-B225-4197-B436-955D76D94A00}|Sobreposicao\\Sobreposicao.csproj|solutionrelative:sobreposicao\\entities\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151CA43-B225-4197-B436-955D76D94A00}|Sobreposicao\\Sobreposicao.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\sobreposicao\\sobreposicao\\entities\\contaempresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151CA43-B225-4197-B436-955D76D94A00}|Sobreposicao\\Sobreposicao.csproj|solutionrelative:sobreposicao\\entities\\contaempresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151CA43-B225-4197-B436-955D76D94A00}|Sobreposicao\\Sobreposicao.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\sobreposicao\\sobreposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151CA43-B225-4197-B436-955D76D94A00}|Sobreposicao\\Sobreposicao.csproj|solutionrelative:sobreposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaEmpresarial.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Sobreposicao\\Sobreposicao\\Entities\\ContaEmpresarial.cs",
+              "RelativeDocumentMoniker": "Sobreposicao\\Entities\\ContaEmpresarial.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Sobreposicao\\Sobreposicao\\Entities\\ContaEmpresarial.cs",
+              "RelativeToolTip": "Sobreposicao\\Entities\\ContaEmpresarial.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vw4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:01:16.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Sobreposicao\\Sobreposicao\\Entities\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "Sobreposicao\\Entities\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Sobreposicao\\Sobreposicao\\Entities\\ContaPoupanca.cs",
+              "RelativeToolTip": "Sobreposicao\\Entities\\ContaPoupanca.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBkAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:01:03.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Sobreposicao\\Sobreposicao\\Entities\\Conta.cs",
+              "RelativeDocumentMoniker": "Sobreposicao\\Entities\\Conta.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Sobreposicao\\Sobreposicao\\Entities\\Conta.cs",
+              "RelativeToolTip": "Sobreposicao\\Entities\\Conta.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAewBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:00:51.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Sobreposicao\\Sobreposicao\\Program.cs",
+              "RelativeDocumentMoniker": "Sobreposicao\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\Sobreposicao\\Sobreposicao\\Program.cs",
+              "RelativeToolTip": "Sobreposicao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:00:11.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
