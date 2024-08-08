@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{698BBAFB-31F5-450D-948E-0DBCBB36CB03}|ExercicioFixacao\\ExercicioFixacao.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\exerciciofixacao\\exerciciofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698BBAFB-31F5-450D-948E-0DBCBB36CB03}|ExercicioFixacao\\ExercicioFixacao.csproj|solutionrelative:exerciciofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698BBAFB-31F5-450D-948E-0DBCBB36CB03}|ExercicioFixacao\\ExercicioFixacao.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\exerciciofixacao\\exerciciofixacao\\entities\\produtosusados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698BBAFB-31F5-450D-948E-0DBCBB36CB03}|ExercicioFixacao\\ExercicioFixacao.csproj|solutionrelative:exerciciofixacao\\entities\\produtosusados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698BBAFB-31F5-450D-948E-0DBCBB36CB03}|ExercicioFixacao\\ExercicioFixacao.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\exerciciofixacao\\exerciciofixacao\\entities\\produtoimportado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698BBAFB-31F5-450D-948E-0DBCBB36CB03}|ExercicioFixacao\\ExercicioFixacao.csproj|solutionrelative:exerciciofixacao\\entities\\produtoimportado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698BBAFB-31F5-450D-948E-0DBCBB36CB03}|ExercicioFixacao\\ExercicioFixacao.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\exerciciofixacao\\exerciciofixacao\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698BBAFB-31F5-450D-948E-0DBCBB36CB03}|ExercicioFixacao\\ExercicioFixacao.csproj|solutionrelative:exerciciofixacao\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutosUsados.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\ExercicioFixacao\\Entities\\ProdutosUsados.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacao\\Entities\\ProdutosUsados.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\ExercicioFixacao\\Entities\\ProdutosUsados.cs",
+              "RelativeToolTip": "ExercicioFixacao\\Entities\\ProdutosUsados.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAwwBUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:38:15.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoImportado.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\ExercicioFixacao\\Entities\\ProdutoImportado.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacao\\Entities\\ProdutoImportado.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\ExercicioFixacao\\Entities\\ProdutoImportado.cs",
+              "RelativeToolTip": "ExercicioFixacao\\Entities\\ProdutoImportado.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:34:28.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\ExercicioFixacao\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacao\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\ExercicioFixacao\\Entities\\Produto.cs",
+              "RelativeToolTip": "ExercicioFixacao\\Entities\\Produto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:31:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\ExercicioFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\ExercicioFixacao\\Program.cs",
+              "RelativeToolTip": "ExercicioFixacao\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:29:47.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
