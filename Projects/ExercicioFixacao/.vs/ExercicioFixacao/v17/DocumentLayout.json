@@ -42,8 +42,7 @@
               "RelativeToolTip": "ExercicioFixacao\\Entities\\ProdutosUsados.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAIAwwBUAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T17:38:15.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T17:38:15.393Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "ExercicioFixacao\\Entities\\ProdutoImportado.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAUwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T17:34:28.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T17:34:28.925Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "ExercicioFixacao\\Entities\\Produto.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T17:31:15.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T17:31:15.752Z"
             },
             {
               "$type": "Document",
@@ -77,9 +74,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\ExercicioFixacao\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioFixacao\\Program.cs",
-              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\ExercicioFixacao\\Program.cs",
-              "RelativeToolTip": "ExercicioFixacao\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwCoAAABGAAAA",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExercicioFixacao\\ExercicioFixacao\\Program.cs*",
+              "RelativeToolTip": "ExercicioFixacao\\Program.cs*",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T17:29:47.079Z",
               "EditorCaption": ""

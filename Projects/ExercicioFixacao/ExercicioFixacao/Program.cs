@@ -21,7 +21,7 @@ namespace ExercicioFixacao
                 char p = char.Parse(Console.ReadLine());
                 Console.Write("Nome: ");
                 string nome = Console.ReadLine();
-                Console.Write("Preço: ");
+                Console.Write("Preço: 🚀");
                 double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 if (p == 'n')
