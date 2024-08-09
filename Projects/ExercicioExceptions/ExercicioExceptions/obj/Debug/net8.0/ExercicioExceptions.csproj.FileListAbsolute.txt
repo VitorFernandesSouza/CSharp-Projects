@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\bin\Debug\net8.0\ExercicioExceptions.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\bin\Debug\net8.0\ExercicioExceptions.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\bin\Debug\net8.0\ExercicioExceptions.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\bin\Debug\net8.0\ExercicioExceptions.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\bin\Debug\net8.0\ExercicioExceptions.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\obj\Debug\net8.0\ExercicioExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\obj\Debug\net8.0\ExercicioExceptions.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\obj\Debug\net8.0\ExercicioExceptions.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\obj\Debug\net8.0\ExercicioExceptions.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\obj\Debug\net8.0\ExercicioExceptions.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\obj\Debug\net8.0\ExercicioExceptions.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\obj\Debug\net8.0\refint\ExercicioExceptions.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\obj\Debug\net8.0\ExercicioExceptions.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\obj\Debug\net8.0\ExercicioExceptions.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExercicioExceptions\ExercicioExceptions\obj\Debug\net8.0\ref\ExercicioExceptions.dll
