@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\bin\Debug\net8.0\ClassesAbstratas.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\bin\Debug\net8.0\ClassesAbstratas.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\bin\Debug\net8.0\ClassesAbstratas.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\bin\Debug\net8.0\ClassesAbstratas.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\bin\Debug\net8.0\ClassesAbstratas.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\obj\Debug\net8.0\refint\ClassesAbstratas.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\obj\Debug\net8.0\ClassesAbstratas.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Abstracao\ClassesAbstratas\obj\Debug\net8.0\ref\ClassesAbstratas.dll
