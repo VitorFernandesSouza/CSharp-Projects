@@ -6,8 +6,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            string porcurarArquivo = @"C:\Users\vitor.fernandessouza\Documents\arquivo.txt";
-            string porcurarArquivo2 = @"C:\Users\vitor.fernandessouza\Documents\arquivo2.txt";
+            string porcurarArquivo = @"C:\Users\...\Documents\arquivo.txt";
+            string porcurarArquivo2 = @"C:\Users\...\Documents\arquivo2.txt";
 
             try
             {
