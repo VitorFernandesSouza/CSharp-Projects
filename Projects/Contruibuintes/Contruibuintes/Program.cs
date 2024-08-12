@@ -18,14 +18,14 @@ namespace Contribuintes
                 Console.WriteLine($"Taxa da {i}° pessoa");
                 Console.Write("Pessoa Física ou Jurídica (fisica/juridica)? ");
                 string tipoPessoa = Console.ReadLine();
-                TipoPessoa tipo = (TipoPessoa)Enum.Parse(typeof(TipoPessoa), tipoPessoa.ToUpper());
+                TipoPessoa tipo = (TipoPessoa)Enum.Parse(typeof(TipoPessoa), tipoPessoa.ToLower());
 
                 Console.Write("Nome: ");
                 string nome = Console.ReadLine();
                 Console.Write("Renda anual: ");
                 double rendaAnual = double.Parse(Console.ReadLine());
 
-                if (tipo == TipoPessoa.FISICA)
+                if (tipo == TipoPessoa.fisica)
                 {
                     Console.Write("Gastos com saúde: ");
                     double gastosSaude = double.Parse(Console.ReadLine());

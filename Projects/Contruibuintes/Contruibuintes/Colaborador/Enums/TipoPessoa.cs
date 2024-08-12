@@ -3,7 +3,7 @@ namespace Contribuintes.Colaborador.Enums
 {
     enum TipoPessoa
     {
-        FISICA = 1,
-        JURIDICA = 2
+        fisica = 1,
+        juridica = 2
     }
 }

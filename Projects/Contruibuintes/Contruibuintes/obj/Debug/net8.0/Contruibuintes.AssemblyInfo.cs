@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contruibuintes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+065ff50d726cf91e4be74df5acfd6c2f84256731")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9245b0e5597613a02d096fe11dea54238a01f26b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contruibuintes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contruibuintes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
