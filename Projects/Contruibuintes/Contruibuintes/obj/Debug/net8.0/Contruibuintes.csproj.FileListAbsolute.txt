@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\bin\Debug\net8.0\Contruibuintes.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\bin\Debug\net8.0\Contruibuintes.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\bin\Debug\net8.0\Contruibuintes.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\bin\Debug\net8.0\Contruibuintes.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\bin\Debug\net8.0\Contruibuintes.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\obj\Debug\net8.0\Contruibuintes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\obj\Debug\net8.0\Contruibuintes.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\obj\Debug\net8.0\Contruibuintes.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\obj\Debug\net8.0\Contruibuintes.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\obj\Debug\net8.0\Contruibuintes.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\obj\Debug\net8.0\Contruibuintes.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\obj\Debug\net8.0\refint\Contruibuintes.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\obj\Debug\net8.0\Contruibuintes.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\obj\Debug\net8.0\Contruibuintes.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\Contruibuintes\Contruibuintes\obj\Debug\net8.0\ref\Contruibuintes.dll
