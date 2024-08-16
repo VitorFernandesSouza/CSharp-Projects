@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\bin\Debug\net8.0\ConsultasLinq.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\bin\Debug\net8.0\ConsultasLinq.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\bin\Debug\net8.0\ConsultasLinq.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\bin\Debug\net8.0\ConsultasLinq.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\bin\Debug\net8.0\ConsultasLinq.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\obj\Debug\net8.0\refint\ConsultasLinq.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\obj\Debug\net8.0\ConsultasLinq.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsultasLinq\ConsultasLinq\obj\Debug\net8.0\ref\ConsultasLinq.dll
