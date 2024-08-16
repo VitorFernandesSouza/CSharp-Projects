@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\bin\Debug\net8.0\Dellagates.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\bin\Debug\net8.0\Dellagates.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\bin\Debug\net8.0\Dellagates.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\bin\Debug\net8.0\Dellagates.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\bin\Debug\net8.0\Dellagates.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\obj\Debug\net8.0\Dellagates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\obj\Debug\net8.0\Dellagates.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\obj\Debug\net8.0\Dellagates.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\obj\Debug\net8.0\Dellagates.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\obj\Debug\net8.0\Dellagates.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\obj\Debug\net8.0\Dellagates.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\obj\Debug\net8.0\refint\Dellagates.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\obj\Debug\net8.0\Dellagates.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\obj\Debug\net8.0\Dellagates.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ConsoleApp\Dellagates\obj\Debug\net8.0\ref\Dellagates.dll
