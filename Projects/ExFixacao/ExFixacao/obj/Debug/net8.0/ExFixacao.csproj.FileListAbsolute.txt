@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\bin\Debug\net8.0\ExFixacao.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\bin\Debug\net8.0\ExFixacao.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\bin\Debug\net8.0\ExFixacao.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\bin\Debug\net8.0\ExFixacao.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\bin\Debug\net8.0\ExFixacao.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\obj\Debug\net8.0\ExFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\obj\Debug\net8.0\ExFixacao.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\obj\Debug\net8.0\ExFixacao.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\obj\Debug\net8.0\ExFixacao.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\obj\Debug\net8.0\ExFixacao.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\obj\Debug\net8.0\ExFixacao.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\obj\Debug\net8.0\refint\ExFixacao.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\obj\Debug\net8.0\ExFixacao.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\obj\Debug\net8.0\ExFixacao.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExFixacao\ExFixacao\obj\Debug\net8.0\ref\ExFixacao.dll
