@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\AgregacaoAgrupamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9899D2-F565-4457-92B9-4A9753C6C272}|AgregacaoAgrupamento\\AgregacaoAgrupamento.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\agregacaoagrupamento\\agregacaoagrupamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9899D2-F565-4457-92B9-4A9753C6C272}|AgregacaoAgrupamento\\AgregacaoAgrupamento.csproj|solutionrelative:agregacaoagrupamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9899D2-F565-4457-92B9-4A9753C6C272}|AgregacaoAgrupamento\\AgregacaoAgrupamento.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\agregacaoagrupamento\\agregacaoagrupamento\\entities\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9899D2-F565-4457-92B9-4A9753C6C272}|AgregacaoAgrupamento\\AgregacaoAgrupamento.csproj|solutionrelative:agregacaoagrupamento\\entities\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9899D2-F565-4457-92B9-4A9753C6C272}|AgregacaoAgrupamento\\AgregacaoAgrupamento.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\agregacaoagrupamento\\agregacaoagrupamento\\entities\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9899D2-F565-4457-92B9-4A9753C6C272}|AgregacaoAgrupamento\\AgregacaoAgrupamento.csproj|solutionrelative:agregacaoagrupamento\\entities\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\AgregacaoAgrupamento\\AgregacaoAgrupamento\\Entities\\Categorias.cs",
+              "RelativeDocumentMoniker": "AgregacaoAgrupamento\\Entities\\Categorias.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\AgregacaoAgrupamento\\AgregacaoAgrupamento\\Entities\\Categorias.cs",
+              "RelativeToolTip": "AgregacaoAgrupamento\\Entities\\Categorias.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:35:38.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\AgregacaoAgrupamento\\AgregacaoAgrupamento\\Entities\\Produtos.cs",
+              "RelativeDocumentMoniker": "AgregacaoAgrupamento\\Entities\\Produtos.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\AgregacaoAgrupamento\\AgregacaoAgrupamento\\Entities\\Produtos.cs",
+              "RelativeToolTip": "AgregacaoAgrupamento\\Entities\\Produtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:35:28.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\AgregacaoAgrupamento\\AgregacaoAgrupamento\\Program.cs",
+              "RelativeDocumentMoniker": "AgregacaoAgrupamento\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\AgregacaoAgrupamento\\AgregacaoAgrupamento\\Program.cs",
+              "RelativeToolTip": "AgregacaoAgrupamento\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:32:51.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
