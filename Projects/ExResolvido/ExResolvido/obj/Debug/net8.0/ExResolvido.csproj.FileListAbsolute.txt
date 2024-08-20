@@ -1,0 +1,15 @@
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\bin\Debug\net8.0\ExResolvido.exe
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\bin\Debug\net8.0\ExResolvido.deps.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\bin\Debug\net8.0\ExResolvido.runtimeconfig.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\bin\Debug\net8.0\ExResolvido.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\bin\Debug\net8.0\ExResolvido.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\obj\Debug\net8.0\ExResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\obj\Debug\net8.0\ExResolvido.AssemblyInfoInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\obj\Debug\net8.0\ExResolvido.AssemblyInfo.cs
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\obj\Debug\net8.0\ExResolvido.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\obj\Debug\net8.0\ExResolvido.sourcelink.json
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\obj\Debug\net8.0\ExResolvido.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\obj\Debug\net8.0\refint\ExResolvido.dll
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\obj\Debug\net8.0\ExResolvido.pdb
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\obj\Debug\net8.0\ExResolvido.genruntimeconfig.cache
+C:\Users\vitor.fernandessouza\Documents\CSharp-Projects\CSharp-Projects\Projects\ExResolvido\ExResolvido\obj\Debug\net8.0\ref\ExResolvido.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExResolvido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0831B387-380A-4E1D-B474-C7DEB7470591}|ExResolvido\\ExResolvido.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\exresolvido\\exresolvido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0831B387-380A-4E1D-B474-C7DEB7470591}|ExResolvido\\ExResolvido.csproj|solutionrelative:exresolvido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0831B387-380A-4E1D-B474-C7DEB7470591}|ExResolvido\\ExResolvido.csproj|c:\\users\\vitor.fernandessouza\\documents\\csharp-projects\\csharp-projects\\projects\\exresolvido\\exresolvido\\entities\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0831B387-380A-4E1D-B474-C7DEB7470591}|ExResolvido\\ExResolvido.csproj|solutionrelative:exresolvido\\entities\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExResolvido\\ExResolvido\\Entities\\Produtos.cs",
+              "RelativeDocumentMoniker": "ExResolvido\\Entities\\Produtos.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExResolvido\\ExResolvido\\Entities\\Produtos.cs",
+              "RelativeToolTip": "ExResolvido\\Entities\\Produtos.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:12:41.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExResolvido\\ExResolvido\\Program.cs",
+              "RelativeDocumentMoniker": "ExResolvido\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor.fernandessouza\\Documents\\CSharp-Projects\\CSharp-Projects\\Projects\\ExResolvido\\ExResolvido\\Program.cs",
+              "RelativeToolTip": "ExResolvido\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:07:08.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
