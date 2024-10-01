@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlocoUsing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b49a18ed19936147d6bfd67b12a1882ba4ca383a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+991cf4f41e1a5f791e553810706f667020b81e95")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlocoUsing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlocoUsing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsultasLinq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f68238109df46181d8d30b60735ca879f14ef082")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+991cf4f41e1a5f791e553810706f667020b81e95")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsultasLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsultasLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
